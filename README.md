@@ -1,6 +1,6 @@
 # Task Management System (ASP.NET MVC)
 
-A simple task management web application built with ASP.NET MVC. This mini-project allows users to register, log in, and manage their tasks through a web interface.
+A simple task management web application built with ASP.NET MVC. This project allows users to register, log in, and manage their tasks through a web interface.
 
 ## 🔍 Project Description
 
@@ -58,7 +58,7 @@ This application enables users to add, view, edit, and delete tasks. It includes
 
 ## 🚀 Getting Started
 
-1. Clone the repository or [download ZIP](https://github.com/your-username/TaskManagementSystem/archive/refs/heads/main.zip)
+1. Clone the repository or download ZIP
 2. Open the solution file `.sln` in Visual Studio.
 3. Restore NuGet packages if prompted.
 4. Configure the database connection string in `Web.config`.
